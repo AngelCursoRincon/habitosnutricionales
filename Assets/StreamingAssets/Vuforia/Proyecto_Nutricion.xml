@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="bono_fitness2" size="1.000000 1.415000" />
+    <ImageTarget name="maquinaimc" size="1.000000 1.333871" />
+    <ImageTarget name="dieta" size="1.000000 1.414167" />
+    <ImageTarget name="calendario" size="1.000000 1.600000" />
+    <ImageTarget name="texto" size="1.000000 1.414402" />
+  </Tracking>
+</QCARConfig>
