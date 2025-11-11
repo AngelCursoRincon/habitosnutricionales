@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.3.1">
+        <ModelTarget name="Apple" targetId="9f35c8419b9a440a871e35800ecc602f" version="14.0" toolVersion="v7.3.1" bbox="-0.073669 0.085212 -0.155824 0.298175 0.385734 0.214107" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="Apple" assemblyId="8ba2e0de57ae42e5979b6a2177a3b520">
+        <Part name="Apple" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
